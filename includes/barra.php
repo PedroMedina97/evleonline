@@ -35,7 +35,7 @@
 
 
                              <div class="row redes-sociales justify-content-center">
-                                 <div class="col-xs-4 col-sm-4 col-md-6 col-lg-6 col-xl-6">
+                                 <div class="col-auto pr-0 mb-1">
                                      <a href="https://www.instagram.com/evlemx/?utm_medium=copy_link" class="icono icon-instagram instagram">
                                      </a>
                                      <a href="https://www.tiktok.com/@evlemx?_d=secCgwIARCbDRjEFSACKAESPgo8rdKRcUsRS5Sm1EfhmMyWxgZJ7ac9ShSTkMPubRiliO7NZ14aVt3055pThwko0uskmJ4eXphzzsbGhl6AGgA%3D&checksum=bce485f8b63cb9ed8bc92cf489ed5597dd73e6f7ed37c6c9fabb7d80dff67389&language=es&sec_uid=MS4wLjABAAAArOQVk1BnFqZjV-0oIQTDcmrNtM5RrJumfhuJ_PjJ2f-SeocYmohkHziBrg0lUBRW&sec_user_id=MS4wLjABAAAAXyC6z6WzHrC3x_nfXnc6c6VwyrBluDfoq3M-k8dj7jGicX-_L1_aWt5OFJcxdXHv&share_app_id=1233&share_author_id=6964781365532427269&share_link_id=28DF0F95-0CA1-42F9-B1D9-97EA6BEDE9CC&tt_from=whatsapp&u_code=dk6ea4b3lcfk6e&user_id=6997080386325414917&utm_campaign=client_share&utm_medium=ios&utm_source=whatsapp&source=h5_m&_r=1" class="icono tiktok">
@@ -44,16 +44,12 @@
                                          </svg>
                                      </a>
                                  </div>
-                                 <div class="col-xs-4 col-sm-4 col-md-6 col-lg-6 col-xl-6">
+                                 <div class="col-auto pr-0 mb-1">
                                      <a href="https://www.facebook.com/EVLEMX/" class="icono icon-facebook facebook">
                                      </a>
                                      <a href="https://twitter.com/evlemx?s=11" class="icono icon-twitter twitter">
                                      </a>
                                  </div>
-
-
-
-                                 
                              </div>
                          </div>
                      </div>

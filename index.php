@@ -1,5 +1,5 @@
 <?php
-    require_once 'parameters.php';
+require_once 'parameters.php';
 ?>
 <!DOCTYPE html>
 <html lang="es">
@@ -19,7 +19,31 @@
     require_once 'includes/barra.php';
 
     ?>
-    <div class="container-fluid mt-5 mb-0">
+    <div class="jumbotron pb-0 pl-0 pr-0 mb-0">
+        <div class="container-fluid bg-light pl-0 pr-0 mt-5">
+            <div class="alert alert-warning mt-5 mb-0 pl-0 pr-0 text-center" role="alert">
+                Logra tu meta de hablar inglés este año. <span class="badge badge-success badge-pill">¡Empieza Hoy!</span>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="back4 jumbotron mt-0 mb-0 fadeIn fast">
+        <div class="container-fluid mt-5 cont">
+            <div class="row mx-0 align-items-center justify-content-center text-justify">
+            <div class="col-lg-6 col-md-4 col-sm-12 col-xs-12">
+                    <img src="img/undraw_connected_world_wuay.svg" alt="img" class="img-fluid">
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <h3 class="text-dark mt-2">Rompe las barreras del lenguaje este 2022 desde la comodidad de tu casa</h3>
+                    <h1 class="text-dark text-center">¡Hoy Mismo!</h1>
+                    <a href="#" class="btn btn-outline-warning btn-lg btn-block mt-5">¡Empieza Ya!</a>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid mt-0 mb-0">
         <div class="row slider mb-0">
             <div class="col">
                 <div id="carousel" class="carousel slide" data-ride="carousel">
@@ -31,27 +55,12 @@
                     <div class="carousel-inner">
                         <div class="carousel-item active">
                             <img class="d-block w-100" src="img/carousel1.jpg" class="d-block w-100" alt="First slide">
-                            <div class="carousel-caption d-block">
-                                
-                                <h3 class="text-light">tenemos un plan diseñado especialmente para tus hijos</h3>
-                                <a href="#" class="btn btn-outline-primary btn-block">Saber Más</a>
-                            </div>
-
                         </div>
                         <div class="carousel-item">
                             <img class="d-block w-100" src="img/carousel3.jpg" class="d-block w-100" alt="Second slide">
-                            <div class="carousel-caption d-block">
-
-                                <h3 class="text-light">Contamos con profesores altamente calificados para brindar un servicio de calidad</h3>
-                                <a href="#" type="button" class="btn btn-outline-warning btn-block">Saber Más</a>
-                            </div>
                         </div>
                         <div class="carousel-item">
                             <img class="d-block w-100" src="img/carousel2.jpg" class="d-block w-100" alt="Third slide">
-                            <div class="carousel-caption d-block">
-                                <h3 class="text-white">Clases para todas las edades</h3>
-                                    <a href="#" type="button" class="btn btn-outline-success btn-block">Saber Más</a>
-                            </div>
                         </div>
                     </div>
                     <a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev">
@@ -96,7 +105,6 @@
             </div>
         </div>
     </div>
-
     <div class="back3 jumbotron mb-0">
         <div class="container-fluid cont">
             <div class="row mx-0 align-items-center justify-content-center text-justify">
@@ -111,6 +119,8 @@
             </div>
         </div>
     </div>
+
+
 
     <!--PIE DE PÁGINA-->
     <?php
