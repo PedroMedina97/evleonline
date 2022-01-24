@@ -118,7 +118,7 @@ body{
 
 .pie{
     border-top: 1px solid #cbcbcb;
-    background-color: red;
+    background-color: rgb(14, 11, 11);
      padding-top: 50px;
       padding-bottom: 50px;
 }
@@ -129,11 +129,11 @@ body{
 }
 
 .redes-sociales .instagram {background: rgba(229, 105, 105, 1);}
-.redes-sociales .youtube {background: rgba(255, 0, 0, 1)}
+.redes-sociales .tiktok {background: rgb(0, 0, 0)}
 .redes-sociales .facebook {background: rgba(59, 89, 152, 1)}
 .redes-sociales .twitter {background: rgba(0, 172, 238, 1)}
 
-.redes-sociales .youtube:hover{background:rgba(255, 0, 0, 0.5)}
+.redes-sociales .tiktok:hover{background:rgba(0, 0, 0, 0.5)}
 .redes-sociales .instagram:hover{background:rgba(229, 105, 105, 0.5)}
 .redes-sociales .facebook:hover{background:rgba(59, 89, 152, 0.5)}
 .redes-sociales .twitter:hover{background:rgba(0, 172, 238, 0.5)}
@@ -152,6 +152,14 @@ body{
     transform: translateY(-20px);
     transition: 0.5s;
 }
+
+.back3{background-image: linear-gradient(to top, #0c3483 0%, #a2b6df 100%, #6b8cce 100%, #a2b6df 100%);}
+
+.back2{background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%)}
+
+.back1{background-image: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%);}
+
+
 
 
 
