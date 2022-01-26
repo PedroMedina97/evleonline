@@ -29,7 +29,7 @@
         <?php
         require_once 'includes/barra.php';
         ?>
-        <div class="jumbotron bg-primary mt-5 mb-0">
+        <div class="jumbotron bg-primary mt-5 mb-0 fadeIn fast">
             <div class="container-fluid mt-5">
                 <div class="row justify-content-center">
                     <div class="col">

@@ -15,7 +15,7 @@
     <?php
     require_once 'includes/barra.php';
     ?>
-    <div class="jumbotron bg-dark mt-5 mb-0" id="sec1">
+    <div class="jumbotron bg-dark mt-5 mb-0 fadeIn fast" id="sec1">
         <div class="container-fluid">
             <div class="row align-items-center justify-content-center text-justify">
                 <div class="col">

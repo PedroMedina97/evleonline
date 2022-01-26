@@ -23,7 +23,7 @@
                                          Lo que Ofrecemos
                                      </a>
                                      <div class="dropdown-menu" aria-labelledby="menu-categorias">
-                                         <a href="#" class="dropdown-item">Nuestros Niveles</a>
+                                         <a href="niveles.php" class="dropdown-item">Nuestros Niveles</a>
                                          <a href="#" class="dropdown-item">Adultos</a>
                                          <a href="#" class="dropdown-item">Niños <span class="badge badge-primary badge-pill">Nuevo</span></a>
                                      </div>

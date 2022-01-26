@@ -31,18 +31,19 @@ require_once 'parameters.php';
     <div class="back4 jumbotron mt-0 mb-0 fadeIn fast">
         <div class="container-fluid mt-5 cont">
             <div class="row mx-0 align-items-center justify-content-center text-justify">
-            <div class="col-lg-6 col-md-4 col-sm-12 col-xs-12">
+                <div class="col-lg-6 col-md-4 col-sm-12 col-xs-12">
                     <img src="img/undraw_connected_world_wuay.svg" alt="img" class="img-fluid">
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                <h3 class="text-dark mt-2">Rompe las barreras del lenguaje este 2022 desde la comodidad de tu casa</h3>
+                    <h3 class="text-dark mt-2">Rompe las barreras del lenguaje este 2022 desde la comodidad de tu casa</h3>
                     <h1 class="text-dark text-center">¡Hoy Mismo!</h1>
                     <a href="#" class="btn btn-outline-warning btn-lg btn-block mt-5">¡Empieza Ya!</a>
                 </div>
-                
+
             </div>
         </div>
     </div>
+    <!--Carrusel-->
     <div class="container-fluid mt-0 mb-0">
         <div class="row slider mb-0">
             <div class="col">
@@ -75,7 +76,7 @@ require_once 'parameters.php';
             </div>
         </div>
     </div>
-    <!--Carrusel-->
+    
 
     <!--CONTENEDORES-->
 
@@ -119,7 +120,57 @@ require_once 'parameters.php';
             </div>
         </div>
     </div>
-
+    <div class="jumbotron mb-0">
+        <div class="row">
+            <div class="col">
+                <div class="card">
+                    <div class="card-header bg-info">
+                        <h2 class="text-center text-light">Testimonios</h2>
+                    </div>
+                    <div class="card-body bg-secondary">
+                        <div class="container">
+                            <div class="row justify-content-between">
+                                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-5">
+                                    <div class="card card-mover">
+                                        <div class="card-body">
+                                            <div class="row">
+                                                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-5">
+                                                    <p><em>"La enseñanza en EVLE nos ha gustado muchísimo por que siempre lo manejan de manera didáctica y muy acorde a la edad de los peques, toman en cuenta las necesidades de cada alumno en especifico y los resultados en lo personal han sido muy notorios y satisfactorios."</em></p>
+                                                </div>
+                                                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-5 text-center align-self-center">
+                                                    <img src="img/monse.jpeg" width="150" height="150" style="border-radius: 100%" alt="">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="card-footer">
+                                            <p>Montserrat Mejía Bejar</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-5">
+                                    <div class="card card-mover">
+                                        <div class="card-body">
+                                            <div class="row">
+                                                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-5">
+                                                    <p class="text-body"><em>"!Me encanta! llevo un tiempo estudiando en EVLE y estoy muy satisfecho con los resultados, he mejorado bastante mi listening y mi speaking y ya puedo mantener algunas conversaciones con personas extranjeras, sin dudarlo lo recomiendo."</em></p>
+                                                </div>
+                                                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-5 text-center align-self-center">
+                                                    <img src="img/guy.jpeg" width="150" height="150" style="border-radius: 100%" alt="">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="card-footer">
+                                            <p>Armando Miguel Castañon Montejo</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
 
     <!--PIE DE PÁGINA-->
